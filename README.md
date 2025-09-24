@@ -1,4 +1,4 @@
 # Self-Practise
-This is my first Practise on git.
+This is my first Practice on git.
 <br>
 Author - Gagandeep 
